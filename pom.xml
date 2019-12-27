@@ -15,7 +15,7 @@
 	<description>eDelivery Module for Four Corner Model - Mock Access Point</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
